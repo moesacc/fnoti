@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "548470086738",
+    "project_id": "fnoti-de61c",
+    "storage_bucket": "fnoti-de61c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548470086738:android:31b265e93e7321562d938b",
+        "android_client_info": {
+          "package_name": "com.moesacc.fnoti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548470086738-funfg6qb619ri3ed3huvkhd2q3sg0cf5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moesacc.fnoti",
+            "certificate_hash": "c45c693c1992630d8ae40524aec48ac7c755cd76"
+          }
+        },
+        {
+          "client_id": "548470086738-v8bcqle1jjml1cf1di244rbudivif0u4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moesacc.fnoti",
+            "certificate_hash": "6e5740eebf5f469357071f56de8ecf643b6ea09a"
+          }
+        },
+        {
+          "client_id": "548470086738-uet2fml43j5le91taobv3vrc3hdngu09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeDSukkBpR7LGOIB5E_KnMtFbumdImcpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548470086738-uet2fml43j5le91taobv3vrc3hdngu09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
